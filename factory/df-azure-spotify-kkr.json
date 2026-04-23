@@ -1,0 +1,15 @@
+{
+	"name": "df-azure-spotify-kkr",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "77e2a8a1-f53c-4b77-a672-1c53fc23be4f",
+		"tenantId": "812bb9ce-922c-43e3-90f0-afabf03bf869"
+	}
+}
