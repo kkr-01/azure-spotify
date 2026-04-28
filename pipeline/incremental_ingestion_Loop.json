@@ -380,7 +380,7 @@
 					{
 						"schema": "dbo",
 						"table": "FactStream",
-						"cdc_col": "date_key",
+						"cdc_col": "stream_timestamp",
 						"from_date": ""
 					}
 				]
